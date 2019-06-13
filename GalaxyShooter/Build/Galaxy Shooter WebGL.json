@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Galaxy Shooter WebGL.data.unityweb",
+"asmCodeUrl": "Galaxy Shooter WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Galaxy Shooter WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Galaxy Shooter WebGL.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
